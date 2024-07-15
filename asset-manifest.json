@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maraevdustrer/static/css/main.ae42ac5f.css",
+    "main.js": "/maraevdustrer/static/js/main.b9627f3d.js",
+    "index.html": "/maraevdustrer/index.html",
+    "main.ae42ac5f.css.map": "/maraevdustrer/static/css/main.ae42ac5f.css.map",
+    "main.b9627f3d.js.map": "/maraevdustrer/static/js/main.b9627f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.b9627f3d.js"
+  ]
+}
